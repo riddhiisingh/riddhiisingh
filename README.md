@@ -7,8 +7,3 @@
 
 Get in Touch!
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/riddhi-singh-12aba1102/)
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/riddhiisingh/riddhiisingh/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
